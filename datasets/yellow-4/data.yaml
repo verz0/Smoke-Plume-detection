@@ -1,0 +1,12 @@
+names:
+- yellow smoke
+nc: 1
+roboflow:
+  license: MIT
+  project: yellow-kaiwx
+  url: https://universe.roboflow.com/objectdetection-oelqv/yellow-kaiwx/dataset/4
+  version: 4
+  workspace: objectdetection-oelqv
+test: ../test/images
+train: yellow-4/train/images
+val: yellow-4/valid/images
